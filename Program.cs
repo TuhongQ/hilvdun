@@ -6,7 +6,7 @@ namespace hilvdun
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World方法666666!");
+            Console.WriteLine("Hello World88888888666666!");
         }
     }
 }
